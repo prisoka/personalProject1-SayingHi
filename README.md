@@ -1,4 +1,4 @@
-# personalproject1-sayhi
+# Say hi!
 
 ## Deployed URL: 
 http://prisoka-sayhi-personalproject1.surge.sh/
